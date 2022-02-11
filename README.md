@@ -1,7 +1,9 @@
 # Photo grid 
 
 Here's how my projext looks like - 
-![mountains](![unknown](https://user-images.githubusercontent.com/95962046/153539431-d2b41b6a-5c41-4595-9c95-acd0dc1445a3.png))
+
+
+![unknown](https://user-images.githubusercontent.com/95962046/153540019-0f51be56-fdc9-4254-b7b2-7b0d95131fba.png)
 
 
 ![Alt Text](https://media.giphy.com/media/B4QFX2cqLR9hVh1pcE/giphy.gif) 
